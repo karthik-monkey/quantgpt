@@ -1,4 +1,4 @@
-# QuantGPT: Financial Report Analysis Engine
+# QuantGPT: Financial Report Analysis Engine 💶
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
